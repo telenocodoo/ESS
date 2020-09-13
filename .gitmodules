@@ -1,0 +1,4 @@
+[submodule "telenoc/oudounce"]
+	path = telenoc/oudounce
+	url = git@github.com:telenoc/oudounce.git
+	branch = master
